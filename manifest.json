@@ -1,6 +1,6 @@
 {
-    "name": "paha_registration",
-    "short_name": "paha_registration",
+    "name": "eagricom_admin",
+    "short_name": "eagricom_admin",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
